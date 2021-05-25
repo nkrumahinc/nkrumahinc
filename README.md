@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### I am Emmanuel. Call me Nkrumah
 
-nkrumahsarpong.com
+https://nkrumahsarpong.com
 
 In the beginning, I was born at a very young age of zero.
 Then I started coding at age 12.
