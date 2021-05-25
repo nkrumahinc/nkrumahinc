@@ -8,4 +8,4 @@ Then I started coding at age 12.
 - 🌱 I’m currently learning : Kotlin and Laravel
 - 👯 I’m looking to collaborate on : Crypto apps and fintech solutions
 - 🤔 I’m looking for help with : CI/CD and Design Patterns
-- 📫 How to reach me: email (nkrumahthis@gmail.com)[mailto:nkrumahthis@gmail.com]
+- 📫 How to reach me: email nkrumahthis@gmail.com
