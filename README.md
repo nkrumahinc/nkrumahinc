@@ -1,8 +1,6 @@
 ## Hi there 👋
 ### I am Emmanuel. Call me Nkrumah
 
-https://nkrumahsarpong.com
-
 In the beginning, I was born at a very young age of zero.
 Then I started coding at age 12.
 My current age keeps changing every year.
@@ -15,4 +13,4 @@ My current age keeps changing every year.
 
 🤔 I’m looking for help with : CI/CD and Design Patterns
 
-📫 How to reach me: email nkrumahthis@gmail.com
+📫 How to reach me: check the pane on the left.
