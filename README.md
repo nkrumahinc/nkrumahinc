@@ -7,7 +7,7 @@ My current age keeps changing every year.
 
 🔭 I’m currently working on : A data system for susu agents
 
-🌱 I’m currently learning : Kotlin and Laravel
+🌱 I’m currently learning : Kotlin and Magento
 
 👯 I’m looking to collaborate on : Crypto apps and fintech solutions
 
