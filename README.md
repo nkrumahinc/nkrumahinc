@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I am Emmanuel. Call me Nkrumah
+### I am Emmanuel
 
 Backend Developer 
 
