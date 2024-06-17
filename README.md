@@ -2,6 +2,7 @@
 
 Most repos are lesson repos and toy projects.
 
+### Languages I use the most on this github account
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nkrumahthis&show_icons=true&count_private=true&theme=transparent&layout=compact&langs_count=10)
 
 ### What I've been up to
